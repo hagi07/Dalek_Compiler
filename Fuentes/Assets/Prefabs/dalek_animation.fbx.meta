@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 6861b76ed6907cb4e8d2089128ebefc1
+timeCreated: 1431715316
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aspas
+    100002: aspas1
+    100004: aspas_toon
+    100006: bottom
+    100008: //RootNode
+    100010: group1
+    100012: group2
+    100014: ikHandle1
+    100016: ikHandle2
+    100018: joint1
+    100020: joint2
+    100022: joint2 1
+    100024: joint3
+    100026: joint3 1
+    100028: joint4
+    100030: joint5
+    100032: nurbsCircle1
+    100034: nurbsCircle2
+    100036: pfxToon2
+    100038: pfxToon3
+    100040: pfxToon4
+    100042: Rgroup_eye
+    100044: Rgroup_leg
+    100046: Rmesh_body
+    100048: toon_ojo
+    400000: aspas
+    400002: aspas1
+    400004: aspas_toon
+    400006: bottom
+    400008: //RootNode
+    400010: group1
+    400012: group2
+    400014: ikHandle1
+    400016: ikHandle2
+    400018: joint1
+    400020: joint2
+    400022: joint2 1
+    400024: joint3
+    400026: joint3 1
+    400028: joint4
+    400030: joint5
+    400032: nurbsCircle1
+    400034: nurbsCircle2
+    400036: pfxToon2
+    400038: pfxToon3
+    400040: pfxToon4
+    400042: Rgroup_eye
+    400044: Rgroup_leg
+    400046: Rmesh_body
+    400048: toon_ojo
+    2300000: aspas
+    2300002: aspas_toon
+    3300000: aspas
+    3300002: aspas_toon
+    4300000: aspas
+    4300002: aspas_toon
+    4300004: Rmesh_body
+    7400000: idle
+    7400002: Salto
+    7400004: Bailar
+    7400006: Helices
+    7400008: Dormir
+    7400010: Despertar
+    9500000: //RootNode
+    13700000: Rmesh_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Salto
+      takeName: Compiladoranim
+      firstFrame: 1
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pfxToon2
+        weight: 1
+      - path: group1/pfxToon3
+        weight: 1
+      - path: group1/pfxToon4
+        weight: 1
+      - path: group1/toon_ojo
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/aspas1
+        weight: 1
+      - path: group2/aspas1/aspas
+        weight: 1
+      - path: group2/aspas1/aspas_toon
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint1
+        weight: 1
+      - path: joint5/joint1/joint2
+        weight: 1
+      - path: joint5/joint1/joint2/joint3
+        weight: 1
+      - path: joint5/joint4
+        weight: 1
+      - path: joint5/joint4/joint2 1
+        weight: 1
+      - path: joint5/joint4/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle2
+        weight: 1
+      - path: Rgroup_eye
+        weight: 1
+      - path: Rgroup_leg
+        weight: 1
+      - path: Rmesh_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Bailar
+      takeName: Compiladoranim
+      firstFrame: 18
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pfxToon2
+        weight: 1
+      - path: group1/pfxToon3
+        weight: 1
+      - path: group1/pfxToon4
+        weight: 1
+      - path: group1/toon_ojo
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/aspas1
+        weight: 1
+      - path: group2/aspas1/aspas
+        weight: 1
+      - path: group2/aspas1/aspas_toon
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint1
+        weight: 1
+      - path: joint5/joint1/joint2
+        weight: 1
+      - path: joint5/joint1/joint2/joint3
+        weight: 1
+      - path: joint5/joint4
+        weight: 1
+      - path: joint5/joint4/joint2 1
+        weight: 1
+      - path: joint5/joint4/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle2
+        weight: 1
+      - path: Rgroup_eye
+        weight: 1
+      - path: Rgroup_leg
+        weight: 1
+      - path: Rmesh_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Helices
+      takeName: Compiladoranim
+      firstFrame: 30
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pfxToon2
+        weight: 1
+      - path: group1/pfxToon3
+        weight: 1
+      - path: group1/pfxToon4
+        weight: 1
+      - path: group1/toon_ojo
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/aspas1
+        weight: 1
+      - path: group2/aspas1/aspas
+        weight: 1
+      - path: group2/aspas1/aspas_toon
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint1
+        weight: 1
+      - path: joint5/joint1/joint2
+        weight: 1
+      - path: joint5/joint1/joint2/joint3
+        weight: 1
+      - path: joint5/joint4
+        weight: 1
+      - path: joint5/joint4/joint2 1
+        weight: 1
+      - path: joint5/joint4/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle2
+        weight: 1
+      - path: Rgroup_eye
+        weight: 1
+      - path: Rgroup_leg
+        weight: 1
+      - path: Rmesh_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dormir
+      takeName: Compiladoranim
+      firstFrame: 48
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pfxToon2
+        weight: 1
+      - path: group1/pfxToon3
+        weight: 1
+      - path: group1/pfxToon4
+        weight: 1
+      - path: group1/toon_ojo
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/aspas1
+        weight: 1
+      - path: group2/aspas1/aspas
+        weight: 1
+      - path: group2/aspas1/aspas_toon
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint1
+        weight: 1
+      - path: joint5/joint1/joint2
+        weight: 1
+      - path: joint5/joint1/joint2/joint3
+        weight: 1
+      - path: joint5/joint4
+        weight: 1
+      - path: joint5/joint4/joint2 1
+        weight: 1
+      - path: joint5/joint4/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle2
+        weight: 1
+      - path: Rgroup_eye
+        weight: 1
+      - path: Rgroup_leg
+        weight: 1
+      - path: Rmesh_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Despertar
+      takeName: Compiladoranim
+      firstFrame: 74
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pfxToon2
+        weight: 1
+      - path: group1/pfxToon3
+        weight: 1
+      - path: group1/pfxToon4
+        weight: 1
+      - path: group1/toon_ojo
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/aspas1
+        weight: 1
+      - path: group2/aspas1/aspas
+        weight: 1
+      - path: group2/aspas1/aspas_toon
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint1
+        weight: 1
+      - path: joint5/joint1/joint2
+        weight: 1
+      - path: joint5/joint1/joint2/joint3
+        weight: 1
+      - path: joint5/joint4
+        weight: 1
+      - path: joint5/joint4/joint2 1
+        weight: 1
+      - path: joint5/joint4/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle2
+        weight: 1
+      - path: Rgroup_eye
+        weight: 1
+      - path: Rgroup_leg
+        weight: 1
+      - path: Rmesh_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Compiladoranim
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bottom
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pfxToon2
+        weight: 1
+      - path: group1/pfxToon3
+        weight: 1
+      - path: group1/pfxToon4
+        weight: 1
+      - path: group1/toon_ojo
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/aspas1
+        weight: 1
+      - path: group2/aspas1/aspas
+        weight: 1
+      - path: group2/aspas1/aspas_toon
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint1
+        weight: 1
+      - path: joint5/joint1/joint2
+        weight: 1
+      - path: joint5/joint1/joint2/joint3
+        weight: 1
+      - path: joint5/joint4
+        weight: 1
+      - path: joint5/joint4/joint2 1
+        weight: 1
+      - path: joint5/joint4/joint2 1/joint3 1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle1
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle2
+        weight: 1
+      - path: Rgroup_eye
+        weight: 1
+      - path: Rgroup_leg
+        weight: 1
+      - path: Rmesh_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

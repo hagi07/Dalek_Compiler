@@ -1,0 +1,14 @@
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\UnityEditor.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\UnityEngine.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\ReneHagi\Documents\DragAndDrop\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ReneHagi\Documents\DragAndDrop\obj\Debug\Assembly-CSharp-firstpass.pdb
